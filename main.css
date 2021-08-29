@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family:'Open Sans', sans-serif;
+  }
+  body{
+    background: url("images/backgrounf.jpg") #374461;
+    background-repeat: repeat-x;
+    background-position: center;
+    background-size: contain;
+    background-attachment: fixed;
+    width: 100%;
+  }
+  h1, h2, h3, ul, p{
+    margin-left: 10%;
+    width: 70%;
+    color: white;
+    text-align: center;
+  }
+  nav{
+      margin-top:   5%;
+  }
+  main{
+      margin-top: 10%;
+  }
+
+footer{
+    margin-top: 20%;
+}
